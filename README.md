@@ -2,10 +2,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:08131E,100:000000&height=180&section=header&text=THE%20DARK%20HOUR%20%3A%3A%20S.E.E.S&fontSize=36&fontColor=38BDF8&fontAlignY=45" width="100%" />
 
-  <!-- TYPING SVG STEALTH CYAN -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=00:00:00+--+Dark+Hour+commenced.;Operative:+Kucing+Hitam+%5BRoastBallRun%5D;Target:+Autonomous+Computer+Vision+%26+UAV+Tracking;Memento+Mori...⌛" alt="Persona 3 Dialog" />
-  </a>
+  <!-- TYPING SVG STEALTH CYAN (FIXED) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=00:00:00+--+Dark+Hour+commenced.;Operative:+Kucing+Hitam+(RoastBallRun);Target:+Autonomous+Computer+Vision+and+UAV;Memento+Mori" alt="Persona 3 Dialog" />
 </div>
 
 <br />
@@ -43,7 +41,7 @@ When stepping away from terminals and hardware: avid video game enthusiast, book
   ◆ Fuel Reserve  (Coffee Tolerance)  : Rank MAX [★★★★★] - UNSTOPPABLE
 
   [ ACTIVE PERSONA ]
-  ◆ Thanatos-CV : Specializes in Prgamming
+  ◆ Thanatos-CV : Specializes in Larping
 ```
 
 ---
